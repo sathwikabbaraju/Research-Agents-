@@ -1,5 +1,7 @@
-crewai
-langchain-openai
-crewai-tools
-python-decouple
-streamlit
+crewai==0.41.1
+langchain-openai==0.1.17
+crewai-tools==0.4.26
+python-decouple==3.8
+streamlit==1.36.0
+embedchain
+chromadb
